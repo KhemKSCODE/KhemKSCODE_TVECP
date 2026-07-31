@@ -6,9 +6,11 @@ In the mini project, I built the program to calculate two values with the operat
 
 # 2. How program work?
 
+In the program. You will insert two values and the operator to calculate two values with the operator. If you select Addition, the first value adds the second value into the summary of two values.
 
 # 3. Result
 
+The summary of two values and operator.
 
 # 4. Source
 
