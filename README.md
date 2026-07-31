@@ -1,1 +1,1 @@
-# KhemKSCODE_TVECP
+# Two Values Easy Calculation Program
