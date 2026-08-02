@@ -11,7 +11,3 @@ In the program. You will insert two values and the operator to calculate two val
 # 3. Result
 
 The summary of two values and the operator from functions.
-
-# 4. Source
-
-Python Documentation (https://docs.python.org/3/)
