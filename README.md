@@ -14,4 +14,4 @@ The summary of two values and the operator from functions.
 
 # 4. Source
 
-Python 3.14.6 Documentation (https://docs.python.org/3/)
+Python Documentation (https://docs.python.org/3/)
